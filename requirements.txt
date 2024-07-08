@@ -37,7 +37,7 @@ langchain==0.1.12
 langchain-community==0.0.28
 langchain-core==0.1.32
 langchain-openai==0.0.8
-langchain-anthropic==0.1.11
+langchain-anthropic==0.1.9
 langchain-text-splitters==0.0.1
 langsmith==0.1.29
 lxml==5.1.0
