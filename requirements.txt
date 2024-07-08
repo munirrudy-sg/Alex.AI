@@ -1,0 +1,7 @@
+langchain-core==0.1.32
+langchain-openai==0.0.8
+langchain-anthropic==0.1.19
+plantuml==0.3.0
+pillow==10.2.0
+streamlit==1.32.2
+streamlit-extras==0.4.0
