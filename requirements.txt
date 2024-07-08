@@ -1,4 +1,4 @@
-langchain-core
+langchain
 langchain-openai
 langchain-anthropic
 plantuml
