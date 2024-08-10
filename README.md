@@ -4,6 +4,12 @@
 
 Greetings! I am Alex, a tool that is used to assist students and working software engineers in speeding up their software engineering needs!
 
+## Try Our Demo
+
+Experience Alex.AI firsthand! Click the link below to try our interactive demo:
+
+[Try Alex.AI Demo](https://alex-ai.streamlit.app/)
+
 ## 1 - What is Alex.AI?
 
 Alex.AI is an application powered by a large-language model (LLM) that assists software engineers with their needs in the early stages of the software development lifecycle (SDLC).
